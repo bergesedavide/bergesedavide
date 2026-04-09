@@ -1,6 +1,7 @@
-## Hi there 👋
+## Ciao 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=radical)
+Sono Davide, uno sviluppatore back-end con una particolare attrazione per la data scienze e la ai.
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 <!--
 **bergesedavide/bergesedavide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
