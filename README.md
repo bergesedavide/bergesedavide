@@ -1,7 +1,7 @@
 ## Ciao 👋
 
 Sono Davide, uno sviluppatore back-end con una particolare attrazione per la data scienze e la ai. <br>
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) Python
+[![My Skills](https://skillicons.dev/icons?i=py,cs,docker,fastapi,github,notion,linux)](https://skillicons.dev)
 <!--
 **bergesedavide/bergesedavide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
