@@ -1,18 +1,43 @@
-## Ciao 👋
+# Hi, I'm Davide 👋
 
-Sono Davide, uno sviluppatore back-end con una particolare attrazione per la data scienze e la ai. <br>
-[![My Skills](https://skillicons.dev/icons?i=py,cs,docker,fastapi,github,notion,linux)](https://skillicons.dev)
-<!--
-**bergesedavide/bergesedavide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT graduate passionate about **data** and on my way to becoming a **Data Engineer**.
+I enjoy building data pipelines, managing databases, and writing clean Python code to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🏪 [InvenTrack](https://github.com/bergesedavide/InvenTrack)
+A sales simulator for business products with data analysis features.
+Built to track inventory, simulate transactions, and extract insights from sales data.
+
+### 🗄️ [data-platform](https://github.com/bergesedavide/data-platform)
+A multi-client platform for managing and organizing company data.
+Designed to handle structured data across different clients with a clean and scalable architecture.
+
+---
+
+## 🎯 Currently
+
+- 📚 Studying Computer Science at university
+- 🔍 Working as a **freelance Database Assistant** (remote)
+- 🚀 Learning: `Pandas` · `dbt` · `Apache Airflow`
+- 🎯 Goal: become a **Data Engineer**
+
+---
+
+## 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bergesedavide)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://fiverr.com)
