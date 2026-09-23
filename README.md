@@ -1,6 +1,6 @@
 # Hi, I'm Davide 👋
 
-I'm an IT graduate passionate about **data** and on my way to becoming a **Data Engineer**.
+I'm a Computer Engineering student at **Politecnico di Torino**, passionate about **data** and on my way to becoming a **Data Engineer**.
 I enjoy building data pipelines, managing databases, and writing clean Python code to solve real-world problems.
 
 ---
@@ -11,6 +11,12 @@ I enjoy building data pipelines, managing databases, and writing clean Python co
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -20,17 +26,17 @@ I enjoy building data pipelines, managing databases, and writing clean Python co
 A sales simulator for business products with data analysis features.
 Built to track inventory, simulate transactions, and extract insights from sales data.
 
-### 🗄️ [data-platform](https://github.com/bergesedavide/data-platform)
-A multi-client platform for managing and organizing company data.
-Designed to handle structured data across different clients with a clean and scalable architecture.
+### 📊 [Synthetic E-commerce Dataset](https://huggingface.co/datasets/davidev07/synthetic-ecommerce-dataset)
+A synthetic, relationally-consistent e-commerce dataset (users, products, transactions) generated with Python and Faker.
+Every table is validated for referential integrity, temporal consistency, and business rules, with deterministic generation for full reproducibility. Available in CSV and Parquet. Free sample on Hugging Face — full-size packs coming soon on Gumroad.
 
 ---
 
 ## 🎯 Currently
 
-- 📚 Studying Computer Science at university
-- 🔍 Working as a **freelance Database Assistant** (remote)
-- 🚀 Learning: `Pandas` · `dbt` · `Apache Airflow`
+- 📚 Studying Computer Engineering at **Politecnico di Torino**
+- 🛠️ Building and publishing open datasets for the data community
+- 🧠 Learning: `Machine Learning` · `Ai Agents` · `Data Manipulation`
 - 🎯 Goal: become a **Data Engineer**
 
 ---
@@ -39,3 +45,5 @@ Designed to handle structured data across different clients with a clean and sca
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-bergese-5930b5375)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davide.bergese07@gmail.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/davidev07/synthetic-ecommerce-dataset)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Coming%20Soon-FF90E8?style=flat&logo=gumroad&logoColor=black)]()
