@@ -1,34 +1,44 @@
 # Hi, I'm Davide 👋
 
-I'm a Computer Engineering student at **Politecnico di Torino**, passionate about **data** and on my way to becoming a **Data Engineer**.
-I enjoy building data pipelines, managing databases, and writing clean Python code to solve real-world problems.
+Computer Engineering student at **Politecnico di Torino**, on my way to becoming a **Data Engineer**.
+I build data pipelines, manage databases, and write clean Python code to solve real-world problems.
+
+---
+
+## 📊 Featured Project
+
+### [Synthetic E-commerce Dataset](https://huggingface.co/datasets/davidev07/synthetic-ecommerce-dataset)
+A synthetic, relationally-consistent e-commerce dataset (users, products, transactions) generated with Python and Faker.
+Every table is validated for referential integrity, temporal consistency, and business rules, with deterministic generation for full reproducibility. Available in CSV and Parquet.
+
+🆓 Free sample on Hugging Face · 🕜 Full-size packs coming soon on Gumroad
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Languages & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Data & Backend**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Other Projects
 
 ### 🏪 [InvenTrack](https://github.com/bergesedavide/InvenTrack)
 A sales simulator for business products with data analysis features.
 Built to track inventory, simulate transactions, and extract insights from sales data.
-
-### 📊 [Synthetic E-commerce Dataset](https://huggingface.co/datasets/davidev07/synthetic-ecommerce-dataset)
-A synthetic, relationally-consistent e-commerce dataset (users, products, transactions) generated with Python and Faker.
-Every table is validated for referential integrity, temporal consistency, and business rules, with deterministic generation for full reproducibility. Available in CSV and Parquet. Free sample on Hugging Face — full-size packs coming soon on Gumroad.
 
 ---
 
@@ -38,6 +48,13 @@ Every table is validated for referential integrity, temporal consistency, and bu
 - 🛠️ Building and publishing open datasets for the data community
 - 🧠 Learning: `Machine Learning` · `Ai Agents` · `Data Manipulation`
 - 🎯 Goal: become a **Data Engineer**
+
+---
+
+## 📈 GitHub Stats
+
+![Davide's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bergesedavide&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bergesedavide&layout=compact&hide_border=true)
 
 ---
 
