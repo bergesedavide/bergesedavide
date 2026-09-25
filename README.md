@@ -11,7 +11,7 @@ I build data pipelines, manage databases, and write clean Python code to solve r
 A synthetic, relationally-consistent e-commerce dataset (users, products, transactions) generated with Python and Faker.
 Every table is validated for referential integrity, temporal consistency, and business rules, with deterministic generation for full reproducibility. Available in CSV and Parquet.
 
-🆓 Free sample on Hugging Face · 🕜 Full-size packs coming soon on Gumroad
+🆓 [Free sample on Hugging Face](https://huggingface.co/datasets/davidev07/synthetic-ecommerce-dataset) · 💰 [Full-size packs on Gumroad](https://bergese4.gumroad.com/l/syntetic_e-commerce_dataset)
 
 ---
 
@@ -46,7 +46,7 @@ Built to track inventory, simulate transactions, and extract insights from sales
 
 - 📚 Studying Computer Engineering at **Politecnico di Torino**
 - 🛠️ Building and publishing open datasets for the data community
-- 🧠 Learning: `Machine Learning` · `Ai Agents` · `Data Manipulation`
+- 🧠 Learning: `Machine Learning` · `AI Agents` · `Data Manipulation`
 - 🎯 Goal: become a **Data Engineer**
 
 ---
@@ -56,4 +56,4 @@ Built to track inventory, simulate transactions, and extract insights from sales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-bergese-5930b5375)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davide.bergese07@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/datasets/davidev07/synthetic-ecommerce-dataset)
-[![Gumroad](https://img.shields.io/badge/Gumroad-Coming%20Soon-FF90E8?style=flat&logo=gumroad&logoColor=black)]()
+[![Gumroad](https://img.shields.io/badge/Gumroad-Shop%20Now-FF90E8?style=flat&logo=gumroad&logoColor=black)](https://bergese4.gumroad.com/l/syntetic_e-commerce_dataset)
